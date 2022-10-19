@@ -1,0 +1,36 @@
+.sobreMim {
+  background-color: #fff;
+}
+
+.wave {
+  position: relative;
+}
+
+.containerSobreMim {
+  display: inline-block;
+  background-color: #fff;
+}
+
+.sobreMimParagrafo {
+  background-color: #fff;
+  display: inline;
+  line-height: 1px;
+  margin: 0px 0px 0px 0px;
+}
+
+.foto_sobreMim {
+  margin-top: 3%;
+  margin-left: 14%;
+  vertical-align: middle;
+  width: 30%;
+  border-radius: 1% 25% 1% 25%;
+  box-shadow: -5px 5px 7px #454e5d61;
+}
+
+.sobreMimButton {
+  background-color: #fff;
+}
+
+.waveDown {
+  transform: rotate(180deg);
+}
